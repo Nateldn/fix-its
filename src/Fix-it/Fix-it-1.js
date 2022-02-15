@@ -6,6 +6,7 @@ const FixIt1 = () => {
         <div>
             <User name="benjamin" />
             <User name="cristiano" >
+            <User name="VI" >
         </div>
     )
 }
